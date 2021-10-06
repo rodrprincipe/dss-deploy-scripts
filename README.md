@@ -1,4 +1,4 @@
-# DSS deployment scripts
+# DSS deployment scripts - EuroPegged
 ![Build Status](https://github.com/makerdao/dss-deploy-scripts/actions/workflows/.github/workflows/tests.yaml/badge.svg?branch=master)
 
 A set of scripts that deploy [dss](http://github.com/makerdao/dss) to an
