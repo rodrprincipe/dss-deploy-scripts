@@ -185,7 +185,7 @@
     "dsr-manager_e5d2a43": {
       "deps": {
         "ds-test": "ds-test_0a5da56",
-        "dss-deploy": "dss-deploy_d62875c"
+        "dss-deploy": "dss-deploy_a93cb6e"
       },
       "name": "dsr-manager",
       "repo": {
@@ -210,7 +210,7 @@
     "dss-cdp-manager_d88d488": {
       "deps": {
         "ds-test": "ds-test_0a5da56",
-        "dss-deploy": "dss-deploy_d62875c"
+        "dss-deploy": "dss-deploy_a93cb6e"
       },
       "name": "dss-cdp-manager",
       "repo": {
@@ -236,7 +236,7 @@
       "deps": {
         "ds-proxy": "ds-proxy_e17a252",
         "ds-test": "ds-test_0a5da56",
-        "dss-deploy": "dss-deploy_d62875c"
+        "dss-deploy": "dss-deploy_a93cb6e"
       },
       "name": "dss-deploy-pause-proxy-actions",
       "repo": {
@@ -294,7 +294,7 @@
     "dss-gem-joins_ca75095": {
       "deps": {
         "ds-test": "ds-test_0a5da56",
-        "dss-deploy": "dss-deploy_d62875c"
+        "dss-deploy": "dss-deploy_a93cb6e"
       },
       "name": "dss-gem-joins",
       "repo": {
@@ -357,7 +357,7 @@
         "name": "dss-291a5e2",
         "ref": "HEAD",
         "rev": "291a5e2d4aa792197e075a9fe85643ac5c098ec8",
-        "url": "https://github.com/makerdao/dss"
+        "url": "https://github.com/rodrprincipe/dss"
       }
     },
     "erc20_f322aac": {
@@ -576,7 +576,7 @@
       "dss-cdp-manager": "dss-cdp-manager_d88d488",
       "dss-chain-log": "dss-chain-log_83e7a01",
       "dss-deploy": "dss-deploy_d62875c",
-      "dss-deploy-1_2": "dss-deploy_d62875c",
+      "dss-deploy-1_2": "dss-deploy_a93cb6e",
       "dss-deploy-pause-proxy-actions": "dss-deploy-pause-proxy-actions_dedf657",
       "dss-flash": "dss-flash_637008d",
       "dss-gem-joins": "dss-gem-joins_ca75095",
